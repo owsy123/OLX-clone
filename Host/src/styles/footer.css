@@ -1,0 +1,15 @@
+.footer{
+    background-color: #002f34;
+}
+
+.footer-content{
+    color: white;
+    padding:16px 0px;
+    font-size: 12px;
+    line-height: 18px;
+    justify-content: space-between;
+}
+
+.b{
+    font-weight: 600;
+}

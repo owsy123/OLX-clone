@@ -1,0 +1,24 @@
+.slide-btn1{
+    position: absolute;
+    left: 0px;
+    height: 70px;
+    width: 40px;
+    background-color: rgb(255, 255, 255);
+}
+.slide-btn2{
+    /* display: inline-block; */
+    position: absolute;
+    right: 0px;
+    height: 70px;
+    width: 40px;
+    background-color: rgb(255, 255, 255);
+}
+
+.fa-angle-left ,.fa-angle-right{
+    color: rgb(32, 32, 32);
+    font-size: 40px;
+}
+
+.opc{
+    opacity: 1 !important;
+}

@@ -1,0 +1,23 @@
+.footer-ban {
+}
+
+.cont {
+
+    background: rgba(0,47,52,.03);
+    display: flex;
+    justify-content: center;
+}
+
+.border-line{
+    /* border-left: 4px solid ; */
+    display: block;
+    width: 2px;
+    margin: auto 5px;
+    background-color: rgba(0,47,52,.2);
+    border: 0 solid rgba(0,47,52,.2);
+    height: 136px;
+}
+
+.mar{
+    margin: 40px !important;
+}

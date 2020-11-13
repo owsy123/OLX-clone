@@ -1,0 +1,113 @@
+.navLinkBtn1 {
+    white-space: nowrap;
+    outline: none;
+    background-color: #fff;
+    border: none;
+}
+
+.navLinkBtn1:focus {
+    outline: none;
+}
+
+.dropmenu2 {
+    font-size: 25px !important;
+}
+
+.allLink {
+    /* display: inline-block !important; */
+    width: max-content;
+    /* border: 2px solid sandybrown !important; */
+}
+
+
+.allCate {
+    width: 70vw !important;
+    transform: translate3d(0px, 40px, 0px) !important;
+    /*  */
+    border-radius: 0px !important;
+    border: none !important;
+    box-shadow: 0px 4px 5px 0px rgb(247, 247, 247); 
+    padding: 10px;
+    /* padding-top: 30px !important; */
+}
+
+.navLink2 {
+    margin: auto 20px;
+}
+
+.navLink2 a {
+    font-size: 14px;
+    margin-right: 20px;
+    /* padding: 3px; */
+    color: #002f34;
+    text-decoration: none;
+}
+
+.navLink2 a:hover {
+    color: #002f34 !important;
+    text-decoration: none;
+}
+
+
+
+.flexContainer {
+    display: flex;
+    /* background-color: red; */
+}
+
+
+.linkItem1 {
+    font-size: 15px;
+    padding: 5px;
+
+}
+
+.linkItem2 {
+    font-size: 14px;
+}
+
+
+.linkItem1 a {
+    margin-right: 20px;
+    color: #002f34 !important;
+}
+
+/* .linkItem2 a{
+    font-size: 13px;
+    color: #002f34 !important;
+} */
+
+/* .fff {
+    display: flex;
+} */
+
+
+.dropdown-item-head{
+    font-weight: 600 !important;
+}
+
+
+.allCate a{
+    font-size: 14px;
+}
+.allCate a:hover{
+    font-size: 14px;
+    background-color: #fff !important;
+    color: rgb(5, 206, 139);
+}
+
+/* .myDivider{
+    margin-top: 30px;
+} */
+
+
+
+
+
+@media only screen and (max-width: 1300px) {
+    .allCate{
+        width: 75vw !important;
+        left: 0 !important; 
+        right: 0 !important;
+    }
+  }

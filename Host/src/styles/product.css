@@ -1,0 +1,19 @@
+.load-btn {
+    color: #002f34;
+    border-radius: 4px;
+    border: 2px solid #002f34;
+    padding: 0 10px;
+    font-size: 16px;
+    height: 48px;
+    background-color: #fff;
+}
+
+.load-btn:hover{
+    border-width: 5px;
+    padding: 0 7px;
+}
+.load-btn:active{
+    background-color: #7f9799;
+    color: #fff;
+    border-color: #7f9799
+}
